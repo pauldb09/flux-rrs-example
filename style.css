@@ -1,0 +1,9 @@
+html {
+    background-color: #2f3136;
+}
+
+.site {
+    border: black;
+    border-bottom: black;
+    border-radius: 50%;
+}
